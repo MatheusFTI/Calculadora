@@ -1,1 +1,1 @@
-Calculadora Desenvolvida em HTML, CSS E JAVASCRIPT!
+Calculadora Desenvolvida com HTML, CSS E JAVASCRIPT!
